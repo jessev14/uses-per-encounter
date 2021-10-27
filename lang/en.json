@@ -1,0 +1,5 @@
+{
+    "uses-per-encounter": {
+        "Encounter": "Encounter"
+    }
+}
