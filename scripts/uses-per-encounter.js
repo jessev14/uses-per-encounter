@@ -1,8 +1,3 @@
- import { libWrapper } from "../lib/shim.js";
-
-const moduleName = "uses-per-encounter";
-
-
 Hooks.once("init", () => {
     // Open module API
     window.UsesPerEncounter = UsesPerEncounter;
